@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel dynamic.html",
-    "build": "parcel build dynamic.html --dist-dir dist"
+    "build": "parcel build dynamic.html"
   },
   "devDependencies": {
-    "parcel": "^2.13.3"
+    "parcel": "^2.13.3",
+    "@types/node": "latest",
+    "typescript": "latest"
   }
 }
 
