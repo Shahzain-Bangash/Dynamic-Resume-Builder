@@ -1,15 +1,11 @@
 {
     "builds": [
       {
-        "src": "dynamic.html",
+        "src": "dynamic.html", 
         "use": "@vercel/static-build",
         "config": {
-          "distDir": "dist"
+          "distDir": "dist" 
         }
       }
-    ],
-    "routes": [
-      { "src": "/(.*)", "dest": "/dist/dynamic.html" }
     ]
   }
-  

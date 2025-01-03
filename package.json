@@ -1,12 +1,11 @@
 {
   "name": "dynamic-parcel-project",
   "version": "1.0.0",
-  "private": true,
-"scripts": {
-  "dev": "parcel dynamic.html",
-  "build": "parcel build dynamic.html --dist-dir dist",
-  "start": "parcel dynamic.html"
-},
+  "scripts": {
+    "dev": "parcel dynamic.html",
+    "build": "parcel build dynamic.html --dist-dir dist", 
+    "start": "parcel dynamic.html" 
+  },
   "devDependencies": {
     "parcel": "^2.13.3",
     "typescript": "^5.0.0",
