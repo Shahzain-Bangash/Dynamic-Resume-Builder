@@ -1,11 +1,15 @@
 {
-    "frameworks": {
-      "version": 2
-    },
-    "buildCommand": "npm run build",
-    "devCommand": "npm run dev",
-    "outputDirectory": "dist",
-    "rewrites": [
-      { "source": "/(.*)", "destination": "/dynamic.html" }
+    "builds": [
+      {
+        "src": "dynamic.html",
+        "use": "@vercel/static-build",
+        "config": {
+          "distDir": "dist"
+        }
+      }
+    ],
+    "routes": [
+      { "src": "/(.*)", "dest": "/dynamic.html" }
     ]
   }
+  
