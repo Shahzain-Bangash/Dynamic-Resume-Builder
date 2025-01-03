@@ -1,14 +1,11 @@
 {
-    "builds": [
-      {
-        
-        "buildCommand": "npm run build",
-        "outputDirectory": "dist"
-          
-      }
-    ],
-    "routes": [
-      { "src": "/(.*)", "dest": "/dynamic.html" }
+    "frameworks": {
+      "version": 2
+    },
+    "buildCommand": "npm run build",
+    "devCommand": "npm run dev",
+    "outputDirectory": "dist",
+    "rewrites": [
+      { "source": "/(.*)", "destination": "/dynamic.html" }
     ]
   }
-  

@@ -1,14 +1,15 @@
 {
-  "name": "my-project",
+  "name": "dynamic-parcel-project",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
-    "start": "parcel dynamic.html",
-    "build": "parcel build dynamic.html"
+    "dev": "parcel dynamic.html",
+    "build": "parcel build dynamic.html",
+    "start": "parcel dynamic.html"
   },
   "devDependencies": {
     "parcel": "^2.13.3",
-    "@types/node": "latest",
-    "typescript": "latest"
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
   }
 }
-
