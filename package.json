@@ -4,7 +4,7 @@
   "private": true,
 "scripts": {
   "dev": "parcel dynamic.html",
-  "build": "parcel build dynamic.html --out-dir dist",
+  "build": "parcel build dynamic.html --dist-dir dist",
   "start": "parcel dynamic.html"
 },
   "devDependencies": {

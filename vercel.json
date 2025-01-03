@@ -9,7 +9,7 @@
       }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "/dynamic.html" }
+      { "src": "/(.*)", "dest": "/dist/dynamic.html" }
     ]
   }
   
