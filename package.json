@@ -1,5 +1,12 @@
 {
+  "name": "my-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel dynamic.html",
+    "build": "parcel build dynamic.html --dist-dir dist"
+  },
   "devDependencies": {
     "parcel": "^2.13.3"
   }
 }
+

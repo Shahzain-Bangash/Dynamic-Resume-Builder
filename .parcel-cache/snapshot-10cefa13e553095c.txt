@@ -1,5 +1,5 @@
-4205
-96D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\package.json133803571856818182 0
+4209
+96D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\package.json133803586846743038 0
 140D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133803571286226258 0
 146D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133803571269993089 0
 115D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\domutils\readme.md133803571255425900 0
@@ -7,7 +7,7 @@
 131D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\@parcel\package-manager\index.d.ts133803571293731101 0
 94D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\.gitignore133803575626036628 0
 131D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\type-fest\ts41\delimiter-case.d.ts133803571246053944 0
-88D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist133803585201426826 1
+88D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist133803588450394187 1
 101D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\package-lock.json133803571857764509 0
 138D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\node-gyp-build-optional-packages\index.js133803571246173432 0
 118D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\browserslist\error.js133803571270666537 0
@@ -1092,7 +1092,7 @@
 118D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\posthtml\package.json133803571252854744 0
 131D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts133803571256625253 0
 143D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\@parcel\package-manager\test\fixtures\packages133803571289521740 1
-101D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.html133803585201426826 0
+101D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.html133803588450310126 0
 125D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\@parcel\cache\lib\types.d.ts133803571272518292 0
 111D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\posthtml\types133803571253567183 1
 171D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133803571291862480 0
@@ -2715,6 +2715,7 @@
 146D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\caniuse-lite\data\features\background-img-opts.js133803571255870843 0
 139D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\caniuse-lite\data\features\setimmediate.js133803571274931891 0
 129D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\@parcel\packager-js\lib\utils.js133803571284457300 0
+113D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.dfb774c2.css.map133803588450394187 0
 156D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133803571255998720 0
 141D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\caniuse-lite\data\features\battery-status.js133803571256131760 0
 131D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\caniuse-lite\data\features\webp.js133803571278573619 0
@@ -4203,4 +4204,7 @@
 112D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\.bin\semver.ps1133803571850603069 0
 128D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\.bin\update-browserslist-db.cmd133803571850603069 0
 128D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\node_modules\.bin\update-browserslist-db.ps1133803571850603069 0
+108D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.355ee887.js133803588450310126 0
+112D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.355ee887.js.map133803588450394187 0
 109D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.9e4c6fd2.css133803572806017368 0
+109D:\Governer House Projects\Milerstone Dynamic Resume Builder\Dynamic-Resume-Builder\dist\dynamic.dfb774c2.css133803588450310126 0
