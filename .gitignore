@@ -1,0 +1,22 @@
+# Node modules folder
+node_modules/
+
+# Parcel cache folder
+.cache/
+
+# Dist folder (Parcel output)
+dist/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
